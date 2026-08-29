@@ -240,5 +240,14 @@
       "Great work with renaming the branches on your local repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1788030325.817078,
+    "completed_at": 1788030330.284603,
+    "comments": [
+      "Branch 'optimization-approach-2' still exists! Remember to delete it"
+    ],
+    "status": "Incomplete"
   }
 ]
